@@ -5,3 +5,5 @@ Uploading each municipality as a file to google cloud.
 Creating a SQL database of municipalities.
 Finding the top 15 most populous municipalities from API.
 Weather prevision for those 25 municipalities. (https://api.open-meteo.com/v1/forecast/")
+
+See the html_README version of the code to see the output.
